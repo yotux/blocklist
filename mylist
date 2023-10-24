@@ -1,1 +1,4 @@
-app.getsentry.com
+#=====================================
+# Title: Hosts contributed by Nate
+
+0.0.0.0 app.getsentry.com
